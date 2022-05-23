@@ -1,0 +1,4 @@
+1. WeatherAPI
+2. Ilmatieteenlaitos
+3. Putty
+4. Ruuvi
