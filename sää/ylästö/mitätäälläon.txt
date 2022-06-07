@@ -1,0 +1,1 @@
+[sää / ylästö] kansio sisältää kaikki säätiedot ylästöön.
